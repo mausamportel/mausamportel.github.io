@@ -1,7 +1,7 @@
 {
   "short_name": "Mausam Portel",
   "name": "Mausam Portel Portfolio",
-  "display":"standalone",
+  "display": "standalone",
   "icons": [
     {
       "src": "favicon.png",
@@ -26,6 +26,6 @@
     }
   ],
   "start_url": ".",
-  "theme_color": "#ffffff",
+  "theme_color": "#183153",
   "background_color": "#ffffff"
 }
